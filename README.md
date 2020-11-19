@@ -1,1 +1,1 @@
-# Social-Media-Scraper
+# Social-Media-Crawler
