@@ -6,7 +6,7 @@ from IPython.display import display
 
 urls = [
     "http://alaska.edu","http://alaskacc.edu"
-,"https://np.edu/","http://uaf.edu","http://www.businessinsider.com/"
+,"https://np.edu/","http://uaf.edu"
 ]
 
 sm_sites = ['twitter.com','facebook.com']
