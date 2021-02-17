@@ -5,7 +5,8 @@ from IPython.display import display
 
 urls = ["http://su.edu.ph/",
 "https://uz.edu.ph/",
-"https://www.vsu.edu.ph/"
+"https://www.vsu.edu.ph/",
+"https://www.msu.edu.ph/"
 ]
 
 sm_sites = ['facebook.com','twitter.com']
